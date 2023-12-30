@@ -1,1 +1,2 @@
-# AST
+# AI Soccer Trainer (AST)
+
